@@ -1,7 +1,7 @@
 # Chapter 1 - Introduction to Human-Computer Interaction
 
 ## Definition of HCI
-Human-computer interaction is a discipline concerned with the design, evaluation and implementation of interactive computing systems for human use and with the study of major phenomena surrounding them.
+Human-computer interaction is a user-oriented field of study that focuses on reducing the negative evaluation or frustration, and enhancing all positive aspects, like enjoyment or commitment to a certain product. The discipline is concerned with the design, evaluation and implementation of interactive computing systems for human use and with the study of major phenomena surrounding them.
 
 ## Common Terminiologies
 - User-centered design
